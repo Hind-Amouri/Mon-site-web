@@ -112,4 +112,15 @@ body {
     padding: 0;
     line-height: 1.6;
 }
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.pexels.com/photos/931193/pexels-photo-931193.jpeg'); /* Ajoute un dégradé */
+    background-size: cover; /* Couvre toute la surface */
+    background-position: center; /* Centre l'image */
+    background-repeat: no-repeat; /* Évite de répéter l'image */
+    color: #fff; /* Change la couleur du texte pour plus de lisibilité */
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
 
