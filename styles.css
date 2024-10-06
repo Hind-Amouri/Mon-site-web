@@ -99,3 +99,17 @@ footer {
     opacity: 0;
     transition: opacity 1s ease-in-out;
 }
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #eef2f3; /* Couleur de fond de secours */
+    background-image: url('https://images.pexels.com/photos/931193/pexels-photo-931193.jpeg'); /* URL de l'image */
+    background-size: cover; /* Couvre toute la surface */
+    background-position: center; /* Centre l'image */
+    background-repeat: no-repeat; /* Évite de répéter l'image */
+    opacity: 0.9; /* Ajoute un léger effet de transparence */
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
